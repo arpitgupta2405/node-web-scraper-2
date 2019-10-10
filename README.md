@@ -3,7 +3,7 @@
 # Steps to use this app:
 
 #1 git clone this repo
-   git clone https://github.com/arpitgupta2405/node-web-scraper.git
+   git clone https://github.com/arpitgupta2405/node-web-scraper-2.git
 
 #2 npm install
 
